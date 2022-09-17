@@ -1,5 +1,6 @@
-# Leal_Portofolio
-My public DS Portofolio
+#PERSONAL PROYECTS PORTOFOLIO
+By: Jose Enrique Leal Castillo 
+**Contact: pikoleal96@gmail.com**
 
 
 # Price sale for housing regressor
