@@ -1,4 +1,4 @@
-#PERSONAL PROYECTS PORTOFOLIO
+# PERSONAL PROYECTS PORTOFOLIO
 By: Jose Enrique Leal Castillo 
 **Contact: pikoleal96@gmail.com**
 
