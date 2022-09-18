@@ -13,3 +13,14 @@ The **objective** of this project is to create an accurate sale price calculatio
 
 [![](https://www.investopedia.com/thmb/FsaVFaKYsbEVzCG1lrQ-MpwdUGY=/425x282/filters:fill(auto,1)/housecalculator-56a7dc723df78cf7729a0745.jpg)](https://github.com/lealcastillo1996/Housing-Price-Estimator)
 
+### House Price Estimator
+
+The **objective** of this project is to create an accurate sale price calculation tool for a Real State company, developing in the process a full Data Science Project
+
+[![](https://www.investopedia.com/thmb/FsaVFaKYsbEVzCG1lrQ-MpwdUGY=/425x282/filters:fill(auto,1)/housecalculator-56a7dc723df78cf7729a0745.jpg)](https://github.com/lealcastillo1996/Housing-Price-Estimator)
+
+### House Price Estimator
+
+The **objective** of this project is to create an accurate sale price calculation tool for a Real State company, developing in the process a full Data Science Project
+
+[![](https://www.investopedia.com/thmb/FsaVFaKYsbEVzCG1lrQ-MpwdUGY=/425x282/filters:fill(auto,1)/housecalculator-56a7dc723df78cf7729a0745.jpg)](https://github.com/lealcastillo1996/Housing-Price-Estimator)
