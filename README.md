@@ -1,5 +1,5 @@
 
-# Personal-Proyects-Portofolio
+# Personal Proyects Portofolio
 
 CONTACT: pikoleal96@gmail.com
 Linkedn: https://www.linkedin.com/in/jose-enrique-leal/
