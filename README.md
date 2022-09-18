@@ -2,7 +2,7 @@
 # Personal Proyects Portofolio
 
 CONTACT: pikoleal96@gmail.com
-[![](https://www.seduc.cl/wp-content/uploads/2021/07/linkedin.png= 250x250)]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/jose-enrique-leal/))
+[![](https://media.discordapp.net/attachments/1007513651705561101/1020989531085865010/Linkedin-Logo.png)]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/jose-enrique-leal/))
 Linkedn: https://www.linkedin.com/in/jose-enrique-leal/
 
 The **objective** of this project is to create an accurate sale price calculation tool for a Real State company, developing in the process a full Data Science Project
