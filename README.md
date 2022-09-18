@@ -11,6 +11,5 @@ CONTACT: pikoleal96@gmail.com
 
 The **objective** of this project is to create an accurate sale price calculation tool for a Real State company, developing in the process a full Data Science Project
 
-![alt text](https://www.investopedia.com/thmb/FsaVFaKYsbEVzCG1lrQ-MpwdUGY=/425x282/filters:fill(auto,1)/housecalculator-56a7dc723df78cf7729a0745.jpg)
-.
-kk
+[![](https://www.investopedia.com/thmb/FsaVFaKYsbEVzCG1lrQ-MpwdUGY=/425x282/filters:fill(auto,1)/housecalculator-56a7dc723df78cf7729a0745.jpg)](https://www.linkedin.com/in/jose-enrique-leal/)
+
