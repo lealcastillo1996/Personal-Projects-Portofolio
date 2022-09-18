@@ -25,7 +25,7 @@ The **objective** of this project is to create an accurate as possible machine l
 [![](![image](https://media.discordapp.net/attachments/929043644512624691/1018974875693625414/Captura_de_Pantalla_2022-09-12_a_las_21.59.53.png)](https://github.com/lealcastillo1996/Baseball-Win-Predictor-Classificator-)
 
 
-### House Price Estimator
+### WEB SCRAPER EXAMPLE
 
 The **objective** of this project is to create an accurate sale price calculation tool for a Real State company, developing in the process a full Data Science Project
 
