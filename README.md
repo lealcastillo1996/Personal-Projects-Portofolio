@@ -29,4 +29,4 @@ The **objective** of this project is to create an accurate as possible machine l
 
 This repository shows a basic code for **web scraping** web pages that contains tables and also an applied example in a sport webpage.
 
-[![](https://miro.medium.com/max/1400/1*xIH77_Q6W6v2ZA6tf9hrDQ.png)](https://github.com/lealcastillo1996/Housing-Price-Estimator)
+[![](https://miro.medium.com/max/1400/1*xIH77_Q6W6v2ZA6tf9hrDQ.png)](https://github.com/lealcastillo1996/Web-scraper-example)
