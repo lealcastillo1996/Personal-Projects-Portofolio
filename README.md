@@ -2,7 +2,7 @@
 # Personal Proyects Portofolio
 
 CONTACT: pikoleal96@gmail.com
-[![](http://cvtipsandtricks.com/wp-content/uploads/2016/02/linkedin.jpg)]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/jose-enrique-leal/))
+[![](https://www.seduc.cl/wp-content/uploads/2021/07/linkedin.png)]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/jose-enrique-leal/))
 Linkedn: https://www.linkedin.com/in/jose-enrique-leal/
 
 The **objective** of this project is to create an accurate sale price calculation tool for a Real State company, developing in the process a full Data Science Project
