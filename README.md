@@ -1,5 +1,8 @@
 
-# Price sale for housing regressor
+# Personal-Proyects-Portofolio
+
+CONTACT: pikoleal96@gmail.com
+Linkedn: https://www.linkedin.com/in/jose-enrique-leal/
 
 The **objective** of this project is to create an accurate sale price calculation tool for a Real State company, developing in the process a full Data Science Project
 
