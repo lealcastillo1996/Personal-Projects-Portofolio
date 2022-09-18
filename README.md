@@ -3,7 +3,7 @@
 
 CONTACT: pikoleal96@gmail.com
 
-[![](https://media.discordapp.net/attachments/1007513651705561101/1020989531085865010/Linkedin-Logo.png)]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/jose-enrique-leal/))
+[![](https://media.discordapp.net/attachments/1007513651705561101/1020989531085865010/Linkedin-Logo.png)]((https://www.linkedin.com/in/jose-enrique-leal/))
 
 
 ## Proyects
