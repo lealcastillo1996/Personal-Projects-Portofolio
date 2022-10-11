@@ -1,5 +1,5 @@
 
-# Personal Proyects Portofolio
+# Personal Projects Portofolio
 
 CONTACT: pikoleal96@gmail.com
 
